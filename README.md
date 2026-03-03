@@ -45,10 +45,15 @@ This project was built to strengthen my core JavaScript fundamentals including:
 ## 📂 Folder Structure
 
 Task-Manager/
+
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 ---
@@ -77,6 +82,7 @@ Task-Manager/
 ## 👨‍💻 Author
 
 **Al Yaman**
+
 BTech Student | Aspiring Software Engineer
 Interested in Full Stack & Mobile App Development
 
